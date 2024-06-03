@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/iam-engine/templates/home';
+export { default } from '@lipagas/iam-engine/templates/home';

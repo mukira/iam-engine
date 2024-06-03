@@ -5,7 +5,7 @@ import { action } from '@ember/object';
 import { isBlank } from '@ember/utils';
 import { timeout } from 'ember-concurrency';
 import { task } from 'ember-concurrency-decorators';
-import getWithDefault from '@fleetbase/ember-core/utils/get-with-default';
+import getWithDefault from '@lipagas/ember-core/utils/get-with-default';
 
 export default class GroupsIndexController extends Controller {
     /**

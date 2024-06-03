@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/iam-engine/components/modals/policy-form';
+export { default } from '@lipagas/iam-engine/components/modals/policy-form';

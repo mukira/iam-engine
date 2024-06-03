@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/iam-engine/controllers/policies/index';
+export { default } from '@lipagas/iam-engine/controllers/policies/index';
